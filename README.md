@@ -5,3 +5,5 @@
 
 **Dashboard จัดทำขึ้นมาไม่ได้มีจุดประสงค์เพื่อใช้ในการประกอบการตัดสินใจทางธุรกิจ**
 **มันเป็น Dashboard จัดทำขึ้นเพื่อใช้ในการฝึกประสบการณ์การใช้ Microsoft Power BI และ วิเคราะห์ข้อมูลที่ได้รับมาเท่านั้น**
+
+ที่มาของข้อมูลสำหรับใช้ในการสร่าง Dashboard : Korean Statistical Information Service (KOSIS) > Retail, Wholesales and Service > Online Shopping Survey 
