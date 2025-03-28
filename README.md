@@ -17,3 +17,4 @@
 ## 4. ผลลัพธ์
 
       4.1 เว็บไซต์ของ Dashboard : https://lookerstudio.google.com/reporting/5a4a5e26-3bdc-4521-bd9e-1dbb2f5b1bbe
+![Korean Shopping Looker Studio Dashboard](https://github.com/user-attachments/assets/9e6aa37f-2331-4acb-bddb-24736b7c713d)
